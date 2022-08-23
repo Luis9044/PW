@@ -1,0 +1,19 @@
+#linksdiv{background-color:gray; border:solid blueviolet;position: fixed;  display:inline-block;bottom:0px;right:0px;width:8%;height:10%;}
+a{ text-decoration: none; color:aliceblue;}
+#Cabeza{position:relative;left:25%; color:bisque;}
+body{background-color: black;}
+.parrafo{width: 45%; height: 45%;}
+.img{position: relative;left: 22.5%; width:50%;}
+#Cabezat{position:relative;top:125px;left:35%; color:bisque; border:solid whitesmoke;display:block; height:15%;width:25%;padding-left: 5%;}
+#mainplan{color:bisque;border-color:bisque;padding-left: 0px;position:relative;top:0px; left:0px;}
+#tituloplan{position: relative; left:30%; color: coral;}
+#textoplan{position:relative; left:25%; height: 40%; width:40%;}
+#imgplan{height:40%;width: 40%;position:relative; left:25%;}
+.boton{color:darkblue;border-color: darkblue;color:darkblue;background-color: darkblue; border-radius: 100%;position:relative; left:33%;}
+.boton:hover{background-color:darkred; color:darkred; border-color: darkred;}
+#plan1{background-color: black;}
+#plan2{background-color: black;display:none;}
+#plan3{background-color: black;display:none;}
+#plan4{background-color: black;display:none;}
+#plan5{background-color: black;display:none;}
+.divino{color:rgb(133, 50, 50);}
